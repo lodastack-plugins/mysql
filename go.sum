@@ -1,0 +1,4 @@
+github.com/go-sql-driver/mysql v1.4.0 h1:7LxgVwFb2hIQtMm87NdgAVfXjnt4OePseqT1tKx+opk=
+github.com/go-sql-driver/mysql v1.4.0/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
+github.com/lodastack/models v0.0.0-20171124042023-a657bc0c06c6 h1:HKZPoNdKD1g7nfK/Y6TEQ2eLy3etZShbccs/27WRKQg=
+github.com/lodastack/models v0.0.0-20171124042023-a657bc0c06c6/go.mod h1:6DwdhCS6s4P+9M6rjiNshSdu7T8KqHJcTHnrQVfn1+U=
